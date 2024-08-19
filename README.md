@@ -3,7 +3,7 @@
 Meu nome é emanuely skura ou manuzao 
 
 - Estou estudando na [Alura](https://www.alura.com.br)
-- Faço as atividades do Aluha;
+- Faço as atividades do Alura;
 - Estou utilizando esse espaço para minha organização e compartilhamento dos meus projetos;
 
   ## Você pode entrar em contato comigo 📫
